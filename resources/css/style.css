@@ -1,0 +1,21 @@
+html,body{
+  color: white;
+  height: 100%;
+   background-image: url("https://static.pexels.com/photos/24576/pexels-photo.jpg");
+  background-size: cover;
+
+}
+
+.title{
+  font-family: Lobster, Arial;
+}
+
+img{
+  height: 100px;
+  width:100px;
+}
+
+#output{
+  margin-top: 10px;
+  opacity: 0.9;
+}
